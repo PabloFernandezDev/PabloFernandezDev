@@ -1,49 +1,41 @@
-Pedro Fernández
-Full Stack Web Developer Junior
-👨‍💻 Passionate web development student based in Marbella, Spain. Currently specializing in full-stack development with a focus on modern web technologies.
-🛠 Tech Stack
+# 👨‍💻 Pablo Fernández García  
 
-Frontend: HTML5, CSS, JavaScript, React
-Backend: Node.js, PHP, Java Spring
-Databases: MySQL, MongoDB
-Tools: Git, GitHub
-Methodologies: SCRUM
+¡Hola! Soy **Pablo Fernández García**, un apasionado desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web (DAW)** y experiencia en tecnologías modernas como **React**, **Node.js** y **Spring**.  
 
-🎓 Education
+## 🌟 Sobre mí  
+- 💻 **Apasionado por la tecnología**: Me encanta crear aplicaciones web funcionales, eficientes y con un diseño atractivo.  
+- 🎓 **Formación especializada**:  
+  - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
+  - **Bootcamp Full Stack Web Development en Releevant**  
+- 📍 Basado en San Pedro Alcántara, Marbella.  
 
-DAW (Web Application Development) | 2023-2025
+## 🛠️ Habilidades técnicas  
+### Front-end  
+- HTML5, CSS3, JavaScript (ES6+), React  
+- Diseño responsivo y enfoque en la experiencia de usuario (UX)  
 
-JavaScript, PHP, Java, and related frameworks
-Database design and management (MySQL)
+### Back-end  
+- Node.js, Express.js, Java (Spring Framework)  
+- Creación de APIs RESTful  
 
+### Bases de datos  
+- MySQL, MongoDB  
 
-Full Stack Web Development Bootcamp - Releevant | 2023
+### Herramientas y metodologías  
+- Git, GitHub (control de versiones en equipo)  
+- SCRUM (trabajo en equipo y gestión ágil de proyectos)  
 
-Frontend: HTML5, CSS, JavaScript, React
-Backend: Node.js, RESTful APIs
-Databases: MongoDB, SQL
-Advanced Git & GitHub workflows
-SCRUM project management
+## 📚 Proyectos destacados  
+- **[Proyecto 1 - E-commerce web](https://github.com/tu-repo-proyecto1)**  
+  Plataforma de comercio electrónico con integración de pasarela de pagos, gestión de usuarios y carrito de compras.  
 
+- **[Proyecto 2 - Aplicación de tareas](https://github.com/tu-repo-proyecto2)**  
+  Aplicación web para la gestión de tareas, con autenticación de usuarios y diseño responsivo.  
 
+## 🌐 Conexiones  
+- 📧 Email: [pablo.tech.fernandez@gmail.com](mailto:pablo.tech.fernandez@gmail.com)  
+- 💼 LinkedIn: [Pablo Fernández García](http://www.linkedin.com/in/pablo-fernandez-garcia-daw)  
+- 🖥️ GitHub: [PabloFernandezDev](https://github.com/PabloFernandezDev)  
 
-💼 Professional Experience
-Supercor Express | 2023-Present
-
-Cashier and Customer Service
-Developed strong communication and problem-solving skills
-
-🌐 Languages
-
-Spanish (Native)
-English (B1)
-
-📫 Contact
-
-Email: pablo.tech.fernandez@gmail.com
-Phone: 684206716
-Location: San Pedro Alcántara, Marbella
-LinkedIn Profile
-
-
-Open to new opportunities and collaborations in web development projects
+## 🚀 Objetivos  
+Estoy en constante aprendizaje y abierto a nuevas oportunidades para crecer como desarrollador. ¡Colaboremos en proyectos interesantes y desafiantes!  
