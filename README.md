@@ -3,8 +3,6 @@
 
 ---
 
-![Banner Tecnología](https://via.placeholder.com/1000x200.png?text=Desarrollador+Full+Stack+Junior)  
-
 ## 🌟 **Sobre mí**  
 - 🎓 Formación:  
   - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
